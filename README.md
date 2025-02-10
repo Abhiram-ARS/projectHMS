@@ -17,9 +17,6 @@ This system is designed to be scalable and adaptable, allowing hospitals to cust
 
 I’m proud of the skills I gained through this project, including Python programming, MySQL database management, and developing secure software systems for real-world applications.
 
-GitHub Repository: 
-https://lnkd.in/gmhKgDgv
-
 #Python 
 #MySQL 
 #HospitalManagement
